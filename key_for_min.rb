@@ -3,6 +3,6 @@
 
 def key_for_min_value(name_hash)
   value = 10000000
-  key =
+  key = nil 
 
 end
